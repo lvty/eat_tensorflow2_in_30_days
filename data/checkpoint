@@ -1,2 +1,2 @@
-model_checkpoint_path: "tf_model_weights.ckpt"
-all_model_checkpoint_paths: "tf_model_weights.ckpt"
+model_checkpoint_path: "mnist_tf_model_weight.ckpt"
+all_model_checkpoint_paths: "mnist_tf_model_weight.ckpt"
