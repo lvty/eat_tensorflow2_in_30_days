@@ -13,26 +13,21 @@
 
 # +
 # #!rm -rf *.html
-
-# +
-# #!git rm --cached  push-to-github.md
 # -
 
-# !git commit -m"revise layers"
+# !git rm --cached  .ipynb_checkpoints/* 
 
-# +
-# #!git remote rm origin 
-# -
+# !git commit -m"revise readme"
+
+# !git remote rm origin 
 
 # !git remote add origin https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 
 # !git remote add gitee https://gitee.com/Python_Ai_Road/eat_tensorflow2_in_30_days
 
-# +
-# #!git pull origin master 
-# -
+# !git pull  origin master 
 
-# !git push  origin master 
+# !git push   origin master 
 
 # !git push  gitee master 
 

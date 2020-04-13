@@ -1,4 +1,9 @@
-# 《30天吃掉那只 TensorFlow2.0 》开篇辞 🔥🔥
+# How to eat TensorFlow2 in 30 days ?🔥🔥
+
+
+English version🔥 is [HERE](https://github.com/lyhue1991/eat_tensorflow2_in_30_days/tree/english).
+
+Translation in progress. Looking forward to your contribution. 翻译进行中，欢迎你的加入和参与。
 
 
 📚 gitbook电子书地址： https://lyhue1991.github.io/eat_tensorflow2_in_30_days
@@ -6,7 +11,7 @@
 🚀 github项目地址：https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 
 
-### 一，TensorFlow2 🍎 还是 Pytorch🔥
+### 一，TensorFlow2 🍎 or Pytorch🔥
 
 先说结论:
 
@@ -31,7 +36,7 @@
 
 ```
 
-### 二，Keras🍏 和 tf.keras 🍎
+### 二，Keras🍏 and  tf.keras 🍎
 
 先说结论：
 
@@ -159,7 +164,7 @@ tf.keras绝大部分功能和兼容多种后端的Keras库用法完全一样，�
 
 本书全部源码在jupyter中编写测试通过，建议通过git克隆到本地，并在jupyter中交互式运行学习。
 
-为了直接能够在jupyter中打开markdown文件，建议安装jupytext，将markdown转换成ipnb。
+为了直接能够在jupyter中打开markdown文件，建议安装jupytext，将markdown转换成ipynb文件。
 
 ```python
 #克隆本书源码到本地,使用码云镜像仓库国内下载速度更快
@@ -199,6 +204,8 @@ hello tensorflow2
 **如果本书对你有所帮助，想鼓励一下作者，记得给本项目加一颗星星star⭐️，并分享给你的朋友们喔😊!** 
 
 如果对本书内容理解上有需要进一步和作者交流的地方，欢迎在公众号"Python与算法之美"下留言。作者时间和精力有限，会酌情予以回复。
+
+也可以在公众号后台回复关键字：**加群**，加入读者交流群和大家讨论。
 
 ![image.png](./data/Python与算法之美logo.jpg)
 
