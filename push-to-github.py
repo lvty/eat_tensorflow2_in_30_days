@@ -9,13 +9,13 @@
 
 # !git init
 
-# !git add  ./data/*  *.md *.py
+# !git add  ./data/*  ./english/* *.md *.py
 
 
 
 # !git rm --cached  .ipynb_checkpoints/* 
 
-# !git commit -m "revise readme" 
+# !git commit -m "revise some chapters" 
 
 # !git remote rm origin 
 
@@ -25,9 +25,9 @@
 
 # !git pull  origin master 
 
-# !git push   origin master 
+# !git push  -f origin master 
 
-# !git push gitee master 
+# !git push -f gitee master 
 
 # ## 创建pages分支
 
