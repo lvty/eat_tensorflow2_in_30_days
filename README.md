@@ -2,7 +2,25 @@
 
 Click here for [Chinese Version（中文版）](#30天吃掉那只-tensorflow2)
 
-🚀 github repository: https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+**《10天吃掉那只pyspark》**
+* 🚀 github项目地址: https://github.com/lyhue1991/eat_pyspark_in_10_days
+* 🐳 和鲸专栏地址: https://www.heywhale.com/home/column/5fe6aa955e24ed00302304e0 【代码可直接fork后云端运行，无需配置环境】
+
+
+**《20天吃掉那只Pytorch》**
+* 🚀 github项目地址: https://github.com/lyhue1991/eat_pytorch_in_20_days
+* 🐳 和鲸专栏地址: https://www.heywhale.com/home/column/5f2ac5d8af3980002cb1bc08 【代码可直接fork后云端运行，无需配置环境】
+
+
+**《30天吃掉那只TensorFlow2》**
+* 🚀 github项目地址: https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+* 🐳 和鲸专栏地址: https://www.heywhale.com/home/column/5d8ef3c3037db3002d3aa3a0 【代码可直接fork后云端运行，无需配置环境】
+
+**极速通道** 
+*  🚀 公众号 “**算法美食屋**” 后台回复暗号："**吃货来了**"
+*  😋 获取以上3套教程的jupyter notebook 源码文件以及全部数据集的百度云盘下载链接。
+*   https://mp.weixin.qq.com/s/ymLtH5BqlWAkpOmCLQOYxw 
+
 
 ### 1. TensorFlow2 🍎 or Pytorch🔥
 
@@ -191,21 +209,26 @@ hello tensorflow2
 
 **If you find this book helpful and want to support the author, please give a star ⭐️ to this repository and don't forget to share it to your friends 😊** 
 
-Please leave comments in the WeChat official account "Python与算法之美" (Elegance of Python and Algorithms) if you want to communicate with the author about the content. The author will try best to reply given the limited time available.
+Please leave comments in the WeChat official account "算法美食屋" (Machine Learning  cook house) if you want to communicate with the author about the content. The author will try best to reply given the limited time available.
 
-![image.png](./data/Python与算法之美logo.jpg)
+![image.png](./data/算法美食屋二维码.jpg)
 
 ```python
 
 ```
-
-
-
 # 30天吃掉那只 TensorFlow2
 
 📚 gitbook电子书地址： https://lyhue1991.github.io/eat_tensorflow2_in_30_days
 
 🚀 github项目地址：https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+
+🐳 kesci专栏地址：https://www.kesci.com/home/column/5d8ef3c3037db3002d3aa3a0
+
+**极速通道** 
+*  🚀 公众号 “**算法美食屋**” 后台回复暗号："**吃货来了**"
+*  😋 获取教程的jupyter notebook 源码文件以及全部数据集的百度云盘下载链接。
+*  https://mp.weixin.qq.com/s/ymLtH5BqlWAkpOmCLQOYxw
+
 
 
 ### 一，TensorFlow2 🍎 or Pytorch🔥
@@ -360,6 +383,10 @@ tf.keras绝大部分功能和兼容多种后端的Keras库用法完全一样，�
 
 为了直接能够在jupyter中打开markdown文件，建议安装jupytext，将markdown转换成ipynb文件。
 
+**此外，本项目也与和鲸社区达成了合作，可以在和鲸专栏fork本项目，并直接在云笔记本上运行代码，避免环境配置痛苦。** 
+
+🐳和鲸专栏地址：https://www.kesci.com/home/column/5d8ef3c3037db3002d3aa3a0
+
 ```python
 #克隆本书源码到本地,使用码云镜像仓库国内下载速度更快
 #!git clone https://gitee.com/Python_Ai_Road/eat_tensorflow2_in_30_days
@@ -388,6 +415,9 @@ tensorflow version: 2.1.0
 hello tensorflow2
 ```
 
+
+
+
 ```python
 
 ```
@@ -397,11 +427,11 @@ hello tensorflow2
 
 **如果本书对你有所帮助，想鼓励一下作者，记得给本项目加一颗星星star⭐️，并分享给你的朋友们喔😊!** 
 
-如果对本书内容理解上有需要进一步和作者交流的地方，欢迎在公众号"Python与算法之美"下留言。作者时间和精力有限，会酌情予以回复。
+如果对本书内容理解上有需要进一步和作者交流的地方，欢迎在公众号"算法美食屋"下留言。作者时间和精力有限，会酌情予以回复。
 
 也可以在公众号后台回复关键字：**加群**，加入读者交流群和大家讨论。
 
-![image.png](./data/Python与算法之美logo.jpg)
+![image.png](./data/算法美食屋二维码.jpg)
 
 ```python
 

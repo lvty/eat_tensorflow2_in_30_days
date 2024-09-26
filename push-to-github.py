@@ -9,25 +9,27 @@
 
 # !git init
 
-# !git add  ./data/*  *.md *.py
+# !git add  ./data/*  ./english/* *.md *.py
 
 
 
 # !git rm --cached  .ipynb_checkpoints/* 
 
-# !git commit -m "revise readme" 
+# !git commit -m "revise some chapters" 
 
 # !git remote rm origin 
 
-# !git remote add origin https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+# !git remote add origin git@github.com:lyhue1991/eat_tensorflow2_in_30_days.git
 
 # !git remote add gitee https://gitee.com/Python_Ai_Road/eat_tensorflow2_in_30_days
 
-# !git pull  origin master 
+# +
+# #!git pull  origin master 
+# -
 
 # !git push   origin master 
 
-# !git push gitee master 
+# !git push -f gitee master 
 
 # ## 创建pages分支
 
